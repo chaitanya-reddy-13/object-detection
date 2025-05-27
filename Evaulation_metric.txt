@@ -1,0 +1,13 @@
+
+Results Metrics:
+  metrics/precision(B): 0.731233
+  metrics/recall(B): 0.629100
+  metrics/mAP50(B): 0.706562
+  metrics/mAP50-95(B): 0.507589
+  fitness: 0.527486
+
+Speed (milliseconds):
+  preprocess: 0.155792
+  inference: 7.157959
+  loss: 0.000391
+  postprocess: 1.283907
